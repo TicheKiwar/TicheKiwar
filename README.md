@@ -92,10 +92,8 @@ available:  true
 
 </div>
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true)
-
-</div> 
+  <img src="https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true&date_format=j M[Y]" alt="GitHub Streak"/>
+</div>
 
 ---
 
