@@ -91,12 +91,11 @@ available:  true
 <img height="180em" src="https://github-readme-stats-five-lemon-59.vercel.app/api/top-langs/?username=tichekiwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</div>
+</div> 
 
 ---
 
