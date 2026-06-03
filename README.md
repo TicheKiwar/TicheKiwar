@@ -84,13 +84,17 @@ available:  true
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats-one-pilt.vercel.app/api?username=tichekiwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats-one-pilt.vercel.app/api/top-langs/?username=tichekiwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<img height="180em" src="https://github-readme-stats-git-master-kiwars-projects.vercel.app/api?username=tichekiwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-git-master-kiwars-projects.vercel.app/api/top-langs/?username=tichekiwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/tichekiwar" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 <div align="center">
 
