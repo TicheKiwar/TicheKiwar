@@ -93,7 +93,7 @@ available:  true
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=tichekiwar&theme=tokyonight)
 
 </div> 
 
